@@ -112,8 +112,8 @@ style="border-radius:8px; height: 246px;"></iframe>
 - 最好是dev用户或者高等级用户，至少要对GitHub使用较为熟悉
 
 ## 审批结果规范
-- 对于要求符合程度高的，把issue关闭并添加valid标签
-- 对于要求符合程度低的，添加invalid标签，说明不符合原因，一段时间后关闭issue
+- 对于要求符合程度高的，把issue关闭并添加accept标签
+- 对于要求符合程度低的，添加deny标签，说明不符合原因，一段时间后关闭issue
 - 对于不确定的需要继续讨论的，添加pending标签，并且可以继续评论沟通
 
 
