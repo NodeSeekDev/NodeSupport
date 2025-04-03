@@ -118,9 +118,9 @@ style="border-radius:8px; height: 246px;"></iframe>
 # 感谢
 NodeSupport的兑换码管理平台由论坛内用户 [Croix](https://www.nodeseek.com/space/14356) 完整开发，是首次把社区内的开发计划交给论坛用户的尝试。
 
-感谢YxVM对社区的信任，这个项目的诞生于和商家的沟通交流
+感谢[YxVM](https://yxvm.com/)对社区的信任，这个项目的诞生于和商家的沟通交流
 
-感谢 [福尔摩斯](https://www.nodeseek.com/space/13352) 在整个项目内的沟通工作，感谢论坛内参与面板测试工作的管理人员
+感谢 [福尔摩斯](https://www.nodeseek.com/space/13352) 在整个项目内的沟通工作，感谢论坛内参与面板测试工作的[管理人员](https://www.nodeseek.com/post-192634-1)
 
 # 其他
 - NodeSeek对本计划保留最终解释权，对于一些预料之外的情况或者干扰项目运行的用户，会采取主观措施
