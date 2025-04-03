@@ -62,7 +62,7 @@ NodeSupport计划是[NodeSeek社区](https://www.nodeseek.com/)和合作商家�
 - 未启用/未定级配置： YxVM | SINECO-Basic (1Cpu/2G RAM)
 
 补充：
-- cloudflare analysis，日访问量 需要 x 2/3，或者按照月访问量 / 10
+- cloudflare analysis，日访问量 需要 x 2/3，或按照月访问量 / 10，两者中的较小值
 - 网站需要尽量填写日访问量曲线和月访问量曲线截图
 - 开源项目会根据项目质量和star用户质量判断是否有刷star嫌疑
 - 频道需要提供月内用户增长曲线图，辅助判断是否有作弊嫌疑（刷量频道）
@@ -102,7 +102,9 @@ style="border-radius:8px; height: 246px;"></iframe>
 
 ## 一般要求
 - 如果自行撤除了赞助说明，视为放弃参与NodeSupport计划
+- 如果通过后24小时内未添加赞助说明，会暂停或删除机器
 - 申请得到的兑换码和机器不得转让和出售，并且使用时需要符合机器提供商的使用条款
+
 
 # 对审核者，申请加入团队和审批规范
 ## 申请加入审核者团队
