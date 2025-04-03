@@ -73,13 +73,14 @@ NodeSupport计划是[NodeSeek社区](https://www.nodeseek.com/)和合作商家�
 免费赞助是一个双向互利的过程，要求获得机器赞助的用户添加一定的赞助说明，具体来说
 
 ## 网站
-- 需要在侧边栏或者其他地区放置一个简易的赞助说明[iframe组件](https://support.nodeseek.com/page/promotion?id={your_id})
+- 需要在侧边栏或者其他地区放置一个简易的赞助说明[iframe组件](https://support.nodeget.com/page/promotion?id={your_id})
 - 如果博客长时间（如3个月）没有新的文章更新，商家有权停止赞助
 ```
-<!-- 代码参考，需要自行调整height数值 -->
+<!-- 代码参考，需要自行调整height和scale数值 -->
 <iframe 
-src="https://support.nodeseek.com/page/promotion?id={your_id}"
-style="border-radius:8px; height: 246px;"></iframe>
+src="https://support.nodeget.com/page/promotion?id={your_id}"
+style="border-radius:8px; height: 246px;
+transform: scale(1.0); transform-origin: top left;"></iframe>
 ```
 
 ## 开源项目
