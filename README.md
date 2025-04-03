@@ -79,7 +79,7 @@ NodeSupport计划是[NodeSeek社区](https://www.nodeseek.com/)和合作商家�
 <!-- 代码参考，需要自行调整height和scale数值 -->
 <iframe 
 src="https://support.nodeget.com/page/promotion?id={your_id}"
-style="border-radius:8px; height: 246px;
+style="border-radius:8px; border: none; height: 246px;
 transform: scale(1.0); transform-origin: top left;"></iframe>
 ```
 
