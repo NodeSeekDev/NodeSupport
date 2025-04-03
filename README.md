@@ -13,7 +13,7 @@ NodeSupport计划是[NodeSeek社区](https://www.nodeseek.com/)和合作商家�
 
 # 申请流程简介
 - 用户在[NodeSupport面板](https://support.nodeseek.com/)通过NS账号登录面板，填写申请内容
-- 根据NodeSupport面板生成的模板，到[GitHub项目](https://github.com/NodeSeekDev/NodeSupport/issue)发起申请issue
+- 根据NodeSupport面板生成的模板，到[GitHub项目](https://github.com/NodeSeekDev/NodeSupport/issues)发起申请issue
 - 将生成的issue id填写到NodeSupport面板，提交申请记录
 - 根据面板提醒，通过TXT记录、Github oAuth2、频道介绍文字等方法验证身份
 - 审批人员在Github issue区沟通和决定是否通过审批
