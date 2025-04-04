@@ -128,7 +128,7 @@ transform: scale(1.0); transform-origin: top left;"></iframe>
 
 # 对审核者，申请加入团队和审批规范
 ## 申请加入审核者团队
-- 在本贴内评论并@管理
+- 在[帖子](https://www.nodeseek.com/post-305185-1)内评论并@管理
 - 最好是dev用户或者高等级用户，至少要对GitHub使用较为熟悉
 
 ## 审批结果规范
