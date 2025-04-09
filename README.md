@@ -136,7 +136,7 @@ transform: scale(1.0); transform-origin: top left;"></iframe>
 - deny：对于要求符合程度低的，添加此标签，说明不符合原因，一段时间后关闭issue
 - pending：对于不确定的需要继续讨论的，添加此标签，并且可以继续评论沟通
 - downgrade：不满足申请表单的标准但满足低一些的申请标准的情况，按照实际符合的发放
-- bellow_threshold：不符合最低要求的申请
+- below_threshold：不符合最低要求的申请
 - waiting_validation：未在面板上验证身份
 - record_not_found：未在面板上查询到所在issue的id号
 
